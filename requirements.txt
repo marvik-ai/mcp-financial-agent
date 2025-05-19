@@ -1,0 +1,7 @@
+fastmcp
+python-dotenv
+ipykernel
+httpx
+yfinance
+liteLLM
+openai-agents[liteLLM]
